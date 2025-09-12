@@ -17,3 +17,10 @@
         - Titulo
     
 - Barra de pesquisa
+
+
+superuser: 
+
+admin@admin
+admin@admin.com
+Leandrin123
